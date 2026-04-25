@@ -80,8 +80,19 @@ export default function TapLink() {
             <span>TELEGRAM</span>
           </Link>
         </div>
+
+        {/* Footer */}
+        <div className="mt-8 text-center text-sm text-gray-500">
+          <Link
+            href="https://t.me/lazizme1"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:text-gray-700 transition-colors"
+          >
+            Build by t.me/lazizme1
+          </Link>
+        </div>
       </div>
     </div>
   )
 }
-
