@@ -89,7 +89,7 @@ export default function TapLink() {
             rel="noopener noreferrer"
             className="hover:text-gray-700 transition-colors"
           >
-            Build by t.me/lazizme1
+            by t.me/lazizme1
           </Link>
         </div>
       </div>
